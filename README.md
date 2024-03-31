@@ -32,7 +32,7 @@ Image enhancement and impulsive noise removal using unsharp mask and adaptive im
 
 <div align="center"><img src="results/Figure_2.png" alt="Figure_2"/></div>
 
-### Histogram equalization using funcions
+### Histogram equalization using functions
 
 <div align="center"><img src="results/Figure_3.png" alt="Figure_3"/></div>
 
