@@ -46,9 +46,9 @@ Image enhancement and impulsive noise removal using unsharp mask and adaptive im
 <div align="center"><img src="results/C=.5.png" alt="C0.5"/></div>
 
 ### C = 1.0
-<div align="center"><img src="results/C1.png" alt="C1"/></div>
+<div align="center"><img src="results/C=1.png" alt="C1"/></div>
 
 ### C = 2.0
-<div align="center"><img src="results/C2.png" alt="C2"/></div>
+<div align="center"><img src="results/C=2.png" alt="C2"/></div>
 
 
