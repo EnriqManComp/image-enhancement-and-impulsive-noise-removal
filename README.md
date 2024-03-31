@@ -14,11 +14,11 @@ Image enhancement and impulsive noise removal using unsharp mask and adaptive im
 <div align="center"><img src="results/variational row.png" alt="Variational row"/></div>
 
 
-### Noise removal formula
+### Noise removal equation
 
 <div align="center"><img src="results/noise removal formula.png" alt="noise removal"/></div>
 
-### Unsharp masking formula
+### Unsharp masking equation
 
 <div align="center"><img src="results/unsharp mask formula.png" alt="unsharp masking formula"/></div>
 
